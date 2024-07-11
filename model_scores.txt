@@ -1,0 +1,28 @@
+KNeighborsClassifier
+the confusion matrix is 
+  [[24  5]
+ [ 3 29]]
+0.8688524590163934
+
+Logistic Regression
+the confusion matrix is 
+  [[25  4]
+ [ 5 27]]
+0.8524590163934426
+
+Support Vector Machine( poly )
+the confusion matrix is 
+  [[26  3]
+ [ 6 26]]
+0.8524590163934426
+
+Support Vector Machine( rbf )
+the confusion matrix is 
+  [[24  5]
+ [ 3 29]]
+0.8688524590163934
+
+Random Forest Classification
+  [[26  3]
+ [ 6 26]]
+0.8524590163934426
